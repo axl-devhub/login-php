@@ -12,10 +12,15 @@ Esta es una página de inicio de sesión basada en PHP que incluye una función 
 
 ### Instrucciones de Uso:
 
-1. Abre phpMyAdmin
 
-3. Crea una nueva base de datos para la aplicación.
+1. Extrae esta carpeta en el disco C:/xampp/htdocs
+
+2. Abra XAMPP Control Panel e inicie los servicios de Apache y MySQL
+
+3. Abra phpMyAdmin
 
 4. Localiza el archivo de consulta SQL en la carpeta "database" del proyecto.
 
 5. Importa el archivo de consulta SQL a la base de datos recién creada. Esto creará las tablas necesarias.
+
+6. Una vez importada copie la siguiente url en su navegador: localhost/login-php-main/index.php 
